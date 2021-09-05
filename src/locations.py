@@ -1,0 +1,6 @@
+
+locations = [
+    "Simei",
+    "Bedok",
+    "Yishun"
+]
